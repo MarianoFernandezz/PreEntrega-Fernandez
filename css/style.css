@@ -23,34 +23,42 @@
 .color-light {
     color: rgba(51, 51, 51, 0.856);
 }
+
 /*### SERVICIOS  ###*/
 .contenedor-servicios {
     display: flex;
     flex-wrap: wrap;
 }
+
 .contenedor-servicios div {
     width: 100%;
     padding: 1rem;
     line-height: 1.8;
 }
-.contenedor-servicios div figure img { 
+
+.contenedor-servicios div figure img {
     width: 50%;
 }
+
 .contenedor-servicios p {
     padding: 10px;
 }
+
 /*### EQUIPO  ###*/
 .contenedor-team {
     width: 80%;
 }
+
 .contenedor-galeria {
-    margin-top:50px;
+    margin-top: 50px;
     width: 100%;
 }
+
 .contenedor-galeria img {
     width: 100%;
 }
-/*### EQUIPO  ###*/
+
+/*### UBICACION  ###*/
 .contenedor-ubicacion {
     display: flex;
     justify-content: center;
@@ -59,9 +67,11 @@
     height: 500px;
     background-color: #c2c2c2;
     padding: 25px;
-    
 
-}/*FOOTER*/
+
+}
+
+/*FOOTER*/
 
 footer {
     background-color: #1b2a4e;
@@ -73,4 +83,41 @@ footer {
     background-color: #fbfafa;
     max-width: 500px;
     margin-bottom: 40px;
+}
+
+/*@MEDIAS*/
+@media (min-width: 768px) {
+    .contenedor-servicios div {
+        width: 50%;
+        padding: .5rem;
+        line-height: 1.8;
+    }
+
+    .contenedor-servicios div figure img {
+        width: 80%;
+    }
+
+    .contenedor-ubicacion a {
+        margin-top: 30px;
+    }
+
+}
+
+@media (min-width: 1440px) {
+    .contenedor-servicios div figure img {
+        width: 80%;
+    }
+
+    .contenedor-galeria {
+        width: 70%;
+        margin: auto;
+    }
+
+    .contenedor-team {
+        margin-top: 60px;
+    }
+
+    .contenedor-ubicacion a {
+        margin-top: 30px;
+    }
 }
