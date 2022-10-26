@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-weight {
+    font-weight: 500;
+}
+
+/*### CAROSUEL ###*/
+.carousel-inner {
+    max-height: 39rem;
+
+}
+
+.titulo-wrap {
+    width: 75%;
+    margin: auto;
+}
+
+.color-light {
+    color: rgba(51, 51, 51, 0.856);
+}
