@@ -68,3 +68,9 @@ footer {
     min-height: 100px;
     padding: 45px;
 }
+
+.contenedor-formulario {
+    background-color: #fbfafa;
+    max-width: 500px;
+    margin-bottom: 40px;
+}
