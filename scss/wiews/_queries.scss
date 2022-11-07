@@ -1,0 +1,60 @@
+/*@MEDIAS*/
+@media (min-width: 768px) {
+    .contenedor-servicios {
+        div {
+            padding: .5rem;
+            line-height: 1.8;
+
+            figure {
+                img {
+                    width: 50%;
+                }
+            }
+        }
+    }
+
+    .contenedor-ubicacion {
+        a {
+            margin-top: 30px;
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    .contenedor-servicios {
+        div {
+            figure {
+                img {
+                    width: 40%;
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 1440px) {
+    .contenedor-servicios {
+        div {
+            figure {
+                img {
+                    width: 35%;
+                }
+            }
+        }
+    }
+
+    .contenedor-galeria {
+        width: 70%;
+        margin: auto;
+    }
+
+    .contenedor-team {
+        margin-top: 60px;
+    }
+
+    .contenedor-ubicacion {
+        a {
+            margin-top: 30px;
+        }
+    }
+}

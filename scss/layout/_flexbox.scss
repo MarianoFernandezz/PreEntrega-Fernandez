@@ -1,0 +1,26 @@
+/*### EQUIPO  ###*/
+.contenedor-team {
+    width: 80%;
+}
+
+.contenedor-galeria {
+    margin-top: 50px;
+    width: 100%;
+
+    img {
+        width: 100%;
+    }
+}
+
+/*### UBICACION  ###*/
+.contenedor-ubicacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    background-color: #c2c2c2;
+    padding: 25px;
+
+
+}
