@@ -1,5 +1,5 @@
-# PreEntrega-Fernandez
-Proyecto N2 para CoderHouse
+# PreEntrega3-Fernandez
+Proyecto N3 para CoderHouse
 Esto es un pequeño proyecto sobre una Agencia de Marketing digital.
 
 Este proyecto esta inspirado en otros proyectos del tipo marketing , lo cual me ha ayudado al diseño y maquetacion.
@@ -11,6 +11,8 @@ Aplique grids de boostrap con tal fin de poder demostrar lo aprendido con boostr
 
 Aplique tambien media queries para dejar a gusto algunos componentes como botones y margenes, ya que en otros breakspoints quedaban desconforme a mi  gusto.
 
-NOTA:Este proyecto lo maquete sin las grids, pero a ultimo momento decidi rehacer la section de servicios, ya que es lo que pide una de las consignas del trabajo "Aplicar grids de boostrap o grid para el layout".
-Con respecto tal cual pedian la consigna solo entregar 2 paginas html, aplicando lo que fuimos viendo en el trascuro del curso.
+NOTA: Hay elementos sobre todo el footer que se pisa con algun que otro contenedor, sinceramente me gusta el efecto que le hace en algunos breakpoints tal como lo son en >490px, por otro lado no personalice los componentes que use en bootstrap ya que yo mismo elegi la paleta y no hace falta personalizarlo, aunque ya he jugado en personalizar los componentes de bootstrap y es tedioso pero necesario de aprender.
+En verdad este proyecto me gusto mucho hacerlo y mejorarlo a medida que iba avanzando en la etapa de coder, ademas de este proyecto tengo otros pero sin dudas este fue el que hice con mas amor!
+
+Gracias por tomar su tiempo en ver mi codigo y el demo!
 
