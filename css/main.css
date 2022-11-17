@@ -66,6 +66,18 @@ footer {
   padding: 45px;
 }
 
+.navegacion-footer {
+  width: 100%;
+  margin: auto;
+}
+.navegacion-footer ul {
+  padding: 0.5rem;
+}
+.navegacion-footer ul li {
+  padding: 3px;
+  list-style: none;
+}
+
 /*FORMULARIO*/
 .contenedor-formulario {
   background-color: #fbfafa;
