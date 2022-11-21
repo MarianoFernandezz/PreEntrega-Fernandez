@@ -1,4 +1,4 @@
-# PreEntrega3-Fernandez
+# Proyecto Final - Fernandez
 Proyecto N3 para CoderHouse
 Esto es un pequeño proyecto sobre una Agencia de Marketing digital.
 

@@ -1,4 +1,13 @@
 /*@MEDIAS*/
+@media (max-width:360px) {
+    .navegacion-footer {
+        li {
+            font-size: 12px;
+        }
+    }
+
+}
+
 @media (min-width: 768px) {
     .contenedor-servicios {
         div {
